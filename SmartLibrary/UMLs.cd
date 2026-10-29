@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartLibrary.Models.Kitap">
+    <Position X="6.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AFAQAAAIAAAACAAAAAgAAAAABAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\Kitap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartLibrary.Models.Kullanici">
+    <Position X="2" Y="0.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAQAAA=</HashCode>
+      <FileName>Models\Kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartLibrary.Models.Ogretmen">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Ogretmen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartLibrary.Models.Ogrenci">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Ogrenci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SmartLibrary.Contracts.IOduncAlinabilir">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IOduncAlinabilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
